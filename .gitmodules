@@ -4,3 +4,9 @@
 [submodule "Data_Science/Pandas_course_assignment4"]
 	path = Data_Science/Pandas_course_assignment4
 	url = https://github.com/VarRoman/course1_assignment4.git
+[submodule "DB/database_group1"]
+	path = DB/database_group1
+	url = https://github.com/MaxKochenkov/database_group1.git
+[submodule "Backend/w69930Programowanie3IID-2023-GL02"]
+	path = Backend/w69930Programowanie3IID-2023-GL02
+	url = https://github.com/VarRoman/w69930Programowanie3IID-2023-GL02.git

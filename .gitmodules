@@ -1,0 +1,6 @@
+[submodule "Data_Science/Data_Science/Pandas_course_assignment4"]
+	path = Data_Science/Data_Science/Pandas_course_assignment4
+	url = https://github.com/VarRoman/course1_assignment4.git
+[submodule "Data_Science/Pandas_course_assignment4"]
+	path = Data_Science/Pandas_course_assignment4
+	url = https://github.com/VarRoman/course1_assignment4.git

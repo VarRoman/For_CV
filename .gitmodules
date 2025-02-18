@@ -7,3 +7,6 @@
 [submodule "Backend/w69930Programowanie3IID-2023-GL02"]
 	path = Backend/w69930Programowanie3IID-2023-GL02
 	url = https://github.com/VarRoman/w69930Programowanie3IID-2023-GL02.git
+[submodule "Backend/Course_work_Nardy"]
+	path = Backend/Course_work_Nardy
+	url = https://github.com/VarRoman/Course_work_Nardy.git
